@@ -23,7 +23,7 @@ To TargetFrameworks so it can compile for .net standard and .net 5.0
  
  # Simplified Console apps
  
- To make it easier for people to learn c# you can remove alot of the code on a console app.
+ To make it easier for people to learn c# 9 you can remove alot of the code on a console app.
  
  
  You can replace 

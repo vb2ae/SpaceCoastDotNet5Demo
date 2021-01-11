@@ -42,3 +42,20 @@ To TargetFrameworks so it can compile for .net standard and .net 5.0
 With
 
      System.Console.Write("Hello world!");
+     
+     
+# Records with C#
+
+      namespace CsharpDemo
+      {
+
+            public record Person(string firstName, string lastName);
+
+      }
+      
+# Deconstructors
+
+
+            var person = new Person("Ken", "Tucker");
+            var (firstName, lastName) = person;
+

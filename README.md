@@ -1,7 +1,7 @@
 # Introduction to .net 5
 
 
-Demo given at the space coast sql/.net online user group on Jan 14,2020
+Demo given at the space coast sql/.net online user group meeting on Jan 14,2020
 
 
 # To compile a .net standard library for .net 5.0

@@ -18,4 +18,3 @@ namespace CsharpDemo
     }
 }
 
-//System.Console.Write("Hello world!");

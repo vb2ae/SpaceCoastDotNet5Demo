@@ -1,1 +1,6 @@
-﻿public record Person(string firstName, string lastName);
+﻿namespace CsharpDemo
+{
+
+    public record Person(string firstName, string lastName);
+
+}

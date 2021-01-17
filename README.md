@@ -46,7 +46,7 @@ With
      
 # Records with C#
 
-Imutable classes
+immutable  classes
 
       namespace CsharpDemo
       {
